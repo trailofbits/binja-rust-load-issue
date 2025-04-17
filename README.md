@@ -1,5 +1,7 @@
 # Test Instructions
 
+Opened issue on binaryninja-api repository https://github.com/Vector35/binaryninja-api/issues/6660
+
 Tested on Binary Ninja v5.0.7255-dev and binaryninja-api 6769870863027693679119152863982393639882.
 
 Make sure you initialize the test binaries submodule
