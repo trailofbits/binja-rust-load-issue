@@ -1,0 +1,3 @@
+[submodule "tests/ROPemporium"]
+	path = tests/binaries/ROPemporium
+	url = https://github.com/0xSoEasY/ROPemporium
